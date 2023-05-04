@@ -1,0 +1,1 @@
+INSERT INTO balance (amount) VALUES (0);
